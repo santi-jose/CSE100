@@ -1,1 +1,1 @@
-# CSE100
+# Logic Design
